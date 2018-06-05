@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'hammersmith_oneregular';
+    src: url('../fonts/hammersmithone-regular-webfont/hammersmithone-regular-webfont.eot');
+    src: url('../fonts/hammersmithone-regular-webfont/hammersmithone-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/hammersmithone-regular-webfont/hammersmithone-regular-webfont.woff2') format('woff2'),
+         url('../fonts/hammersmithone-regular-webfont/hammersmithone-regular-webfont.woff') format('woff'),
+         url('../fonts/hammersmithone-regular-webfont/hammersmithone-regular-webfont.ttf') format('truetype'),
+         url('../fonts/hammersmithone-regular-webfont/hammersmithone-regular-webfont.svg#hammersmith_oneregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'playfair_displayblack';
+    src: url('../fonts/playfairdisplay-black-webfont/playfairdisplay-black-webfont.eot');
+    src: url('../fonts/playfairdisplay-black-webfont/playfairdisplay-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/playfairdisplay-black-webfont/playfairdisplay-black-webfont.woff2') format('woff2'),
+         url('../fonts/playfairdisplay-black-webfont/playfairdisplay-black-webfont.woff') format('woff'),
+         url('../fonts/playfairdisplay-black-webfont/playfairdisplay-black-webfont.ttf') format('truetype'),
+         url('../fonts/playfairdisplay-black-webfont/playfairdisplay-black-webfont.svg#playfair_displayblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'playfair_displaybold';
+    src: url('../fonts/playfairdisplay-bold-webfont/playfairdisplay-bold-webfont.eot');
+    src: url('../fonts/playfairdisplay-bold-webfont/playfairdisplay-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/playfairdisplay-bold-webfont/playfairdisplay-bold-webfont.woff2') format('woff2'),
+         url('../fonts/playfairdisplay-bold-webfont/playfairdisplay-bold-webfont.woff') format('woff'),
+         url('../fonts/playfairdisplay-bold-webfont/playfairdisplay-bold-webfont.ttf') format('truetype'),
+         url('../fonts/playfairdisplay-bold-webfont/playfairdisplay-bold-webfont.svg#playfair_displaybold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'playfair_displayregular';
+    src: url('../fonts/playfairdisplay-regular-webfont/playfairdisplay-regular-webfont.eot');
+    src: url('../fonts/playfairdisplay-regular-webfont/playfairdisplay-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/playfairdisplay-regular-webfont/playfairdisplay-regular-webfont.woff2') format('woff2'),
+         url('../fonts/playfairdisplay-regular-webfont/playfairdisplay-regular-webfont.woff') format('woff'),
+         url('../fonts/playfairdisplay-regular-webfont/playfairdisplay-regular-webfont.ttf') format('truetype'),
+         url('../fonts/playfairdisplay-regular-webfont/playfairdisplay-regular-webfont.svg#playfair_displayregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'robotoblack';
+    src: url('../fonts/roboto-black-webfont/roboto-black-webfont.eot');
+    src: url('../fonts/roboto-black-webfont/roboto-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/roboto-black-webfont/roboto-black-webfont.woff2') format('woff2'),
+         url('../fonts/roboto-black-webfont/roboto-black-webfont.woff') format('woff'),
+         url('../fonts/roboto-black-webfont/roboto-black-webfont.ttf') format('truetype'),
+         url('../fonts/roboto-black-webfont/roboto-black-webfont.svg#robotoblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'robotolight';
+    src: url('../fonts/roboto-light-webfont/roboto-light-webfont.eot');
+    src: url('../fonts/roboto-light-webfont/roboto-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/roboto-light-webfont/roboto-light-webfont.woff2') format('woff2'),
+         url('../fonts/roboto-light-webfont/roboto-light-webfont.woff') format('woff'),
+         url('../fonts/roboto-light-webfont/roboto-light-webfont.ttf') format('truetype'),
+         url('../fonts/roboto-light-webfont/roboto-light-webfont.svg#robotolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotothin';
+    src: url('../fonts/roboto-thin-webfont/roboto-thin-webfont.eot');
+    src: url('../fonts/roboto-thin-webfont/roboto-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/roboto-thin-webfont/roboto-thin-webfont.woff2') format('woff2'),
+         url('../fonts/roboto-thin-webfont/roboto-thin-webfont.woff') format('woff'),
+         url('../fonts/roboto-thin-webfont/roboto-thin-webfont.ttf') format('truetype'),
+         url('../fonts/roboto-thin-webfont/roboto-thin-webfont.svg#robotothin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotoregular';
+    src: url('../font/roboto-regular-webfont/roboto-regular-webfont.eot');
+    src: url('../font/roboto-regular-webfont/roboto-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/roboto-regular-webfont/roboto-regular-webfont.woff2') format('woff2'),
+         url('../font/roboto-regular-webfont/roboto-regular-webfont.woff') format('woff'),
+         url('../font/roboto-regular-webfont/roboto-regular-webfont.ttf') format('truetype'),
+         url('../font/roboto-regular-webfont/roboto-regular-webfont.svg#robotoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
